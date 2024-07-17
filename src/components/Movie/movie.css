@@ -1,0 +1,21 @@
+.movieContainer {
+  width: 200px;
+  height: 400px;
+  padding: 10px;
+  background-color: #ccc;
+  border-radius: 5px;
+  text-align: center;
+  margin: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.movieImg {
+  width: 180px;
+  border-radius: 5px;
+}
+
+.movieDetails {
+  display: flex;
+  justify-content: space-evenly;
+  margin: 10px 0px;
+}

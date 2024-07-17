@@ -1,0 +1,57 @@
+.aboutUsContainer {
+  display: flex;
+  padding: 20px;
+}
+
+.aboutUsLeft {
+  text-align: center;
+  flex: 1;
+}
+
+.aboutUsImg {
+  width: 100px;
+  height: 100px;
+  border-radius: 100%;
+}
+
+.aboutUsRight {
+  flex: 3;
+}
+
+.infoTitle {
+  margin-top: 20px;
+}
+
+.skillContainer {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  padding: 20px 0px;
+}
+
+.skillThumb {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 2px 15px;
+  height: 30px;
+  background-color: #ccc;
+  border-radius: 7px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.skillImg {
+  width: 24px;
+  margin-right: 3px;
+}
+
+.socialContainer {
+  padding-top: 10px;
+}
+
+.socialImg {
+  width: 30px;
+  margin-right: 5px;
+  border-radius: 5px;
+  cursor: pointer;
+}

@@ -1,0 +1,22 @@
+{
+  "skillsUI": [
+    { "id":1 ,"title": "Html", "image": "./images/skills/html.png" },
+    { "id":2 ,"title": "Css", "image": "./images/skills/css.png" },
+    { "id":3 ,"title": "flexbox", "image": "./images/skills/flexbox.png" },
+    { "id":4 ,"title": "Grid", "image": "./images/skills/grid.png" },
+    { "id":5 ,"title": "Bootstrap", "image": "./images/skills/bootstrap.png" },
+    { "id":6 ,"title": "Sass", "image": "./images/skills/sass.png" },
+    { "id":7 ,"title": "JavaScript", "image": "./images/skills/js.png" },
+    { "id":8 ,"title": "React", "image": "./images/skills/react.png" }
+  ],
+  "skillsPE": [
+    { "id":1 ,"title": "etap", "image": "./images/skills/etap.png" },
+    { "id":2 ,"title": "Digsilent", "image": "./images/skills/digsilent.png" },
+    { "id":3 ,"title": "Maxwell", "image": "./images/skills/maxwell.png" },
+    { "id":4 ,"title": "Opera", "image": "./images/skills/opera.png" },
+    { "id":5 ,"title": "SES", "image": "./images/skills/ses.png" },
+    { "id":6 ,"title": "Excell", "image": "./images/skills/excell.png" },
+    { "id":7 ,"title": "PowerBI", "image": "./images/skills/powerbi.png" },
+    { "id":8 ,"title": "Photoshop", "image": "./images/skills/photoshop.png" }
+  ]
+}
